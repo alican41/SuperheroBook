@@ -1,4 +1,4 @@
-#  Superhero Book (Süper Kahraman Kitabı)
+#  Superhero Book (Süper Kahraman Kitabı):
 
 Bu proje, **Jetpack Compose** kullanılarak geliştirilmiş basit bir Android uygulamasıdır. Uygulama, süper kahramanların bir listesini gösterir ve listeden seçilen kahramanın detaylarını ayrı bir ekranda sunar.
 
